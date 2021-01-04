@@ -1,0 +1,83 @@
+{
+"products" : [{
+  "id": 1,
+  "name": "Caracara, yellow-headed",
+  "category": "Yellow"
+}, {
+  "id": 2,
+  "name": "Swainson's francolin",
+  "category": "Green"
+}, {
+  "id": 3,
+  "name": "Denham's bustard",
+  "category": "Crimson"
+}, {
+  "id": 4,
+  "name": "Frilled lizard",
+  "category": "Red"
+}, {
+  "id": 5,
+  "name": "Land iguana",
+  "category": "Red"
+}, {
+  "id": 6,
+  "name": "Brocket, brown",
+  "category": "Red"
+}, {
+  "id": 7,
+  "name": "Ocelot",
+  "category": "Puce"
+}, {
+  "id": 8,
+  "name": "Killer whale",
+  "category": "Khaki"
+}, {
+  "id": 9,
+  "name": "Southern white-crowned shrike",
+  "category": "Aquamarine"
+}, {
+  "id": 10,
+  "name": "Possum, pygmy",
+  "category": "Goldenrod"
+}, {
+  "id": 11,
+  "name": "Flying fox (unidentified)",
+  "category": "Khaki"
+}, {
+  "id": 12,
+  "name": "Four-spotted skimmer",
+  "category": "Purple"
+}, {
+  "id": 13,
+  "name": "Grison",
+  "category": "Fuscia"
+}, {
+  "id": 14,
+  "name": "Phascogale, brush-tailed",
+  "category": "Teal"
+}, {
+  "id": 15,
+  "name": "Black spider monkey",
+  "category": "Red"
+}, {
+  "id": 16,
+  "name": "Black-cheeked waxbill",
+  "category": "Aquamarine"
+}, {
+  "id": 17,
+  "name": "Black-tailed deer",
+  "category": "Orange"
+}, {
+  "id": 18,
+  "name": "Porcupine, tree",
+  "category": "Blue"
+}, {
+  "id": 19,
+  "name": "Eurasian red squirrel",
+  "category": "Purple"
+}, {
+  "id": 20,
+  "name": "Madagascar hawk owl",
+  "category": "Goldenrod"
+}]
+}
